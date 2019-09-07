@@ -1,7 +1,7 @@
 # HW-SW_CoDesign
-SPI-based communication between two FPGAs.
+SPI-based communication between two FPGAs. Bidirectional communication with MOSI and MISO to activate one FPGA leds by using the other FPGA switches.
 
 Implementation done in VHDL (RTL desgin and testbench).
-IDE used is Lattice Diamond and the FPGAs used are Lattice XP2
+The IDE used was Lattice Diamond (design) and ModelSim (validation), and the FPGAs used were Lattice XP2 EV.
 
-Master "Embedded System for Mechatronics" in FH Dortmund.
+From master "Embedded System for Mechatronics" in FH Dortmund.
